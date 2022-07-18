@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = thibaultlemaire2004@gmail.com
+	name = thibault le maire
